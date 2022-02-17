@@ -18,7 +18,7 @@ canonical-url: ""
 # It must start with a slash. Otherwise you can leave it blank. See:
 # http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
 #baseurl: "https://mariafiruleva.github.io/test_jekyll"
-baseurl: ""
+baseurl: "http://mariafiruleva.github.io/test_book"
 # GitHub Pages repository
 # -----------------------
 # If you're publishing a website on GitHub Pages
